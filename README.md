@@ -1,2 +1,5 @@
 # curso-python
- Registrando meu aprendizado no Curso de Python do professor Gustavo Guanabara
+# Minha jornada no Python (Curso em Vídeo)
+    Esse repositório foi criado para registrar toda a minha evolução, códigos e desafios com a linguaguem Python.
+## Progresso do Curso
+    - [] Mundo 1: Fundamentos (Em andamento...)
